@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FingerprintAuth</string>
+
+    <!-- Home Screen Text -->
+    <string name="home_screen">Home Screen</string>
+
+    <!-- Fingerprint Auth Screen Text -->
+    <string name="login">LOGIN</string>
+</resources>
